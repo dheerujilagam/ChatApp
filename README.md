@@ -6,6 +6,8 @@ ChatApp using Flutter and Firebase
 
 Welcome to ChatApp, a real-time chat application built using Flutter! This README provides essential information to help you understand, set up, and use this chat application.
 
+![Uploading ChatBuddy.gif…]()
+
 ## Features
 
 - User Authentication: Securely register and log in users.
