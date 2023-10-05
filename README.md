@@ -13,7 +13,6 @@ Welcome to ChatApp, a real-time chat application built using Flutter! This READM
 - User Authentication: Securely register and log in users.
 - Real-time Messaging: Instantly send and receive messages.
 - Personal Chats: Engage in one-on-one conversations.
-- User Profiles: View and update user profiles.
 
 ## Prerequisites
 
